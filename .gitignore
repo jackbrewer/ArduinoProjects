@@ -1,0 +1,9 @@
+# OsX
+.DS_Store
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Fritzing Files (for now)
+.fzz
