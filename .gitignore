@@ -6,4 +6,4 @@ Icon?
 .Trashes
 
 # Fritzing Files (for now)
-.fzz
+*.fzz
